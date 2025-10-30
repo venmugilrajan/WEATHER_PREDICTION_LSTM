@@ -6,15 +6,8 @@ The project includes:
 1.  A Python script to train and save the LSTM model.
 2.  An interactive web app built with Gradio to make live predictions.
 
-## 📈 Visualizations
-
-The training script automatically generates plots to show the model's performance:
-
-* **`model_loss_history.png`**: Shows the model's "learning curve." You can see the error (loss) decrease over each epoch, proving the model learned successfully.
+## APP:
     
-* **`prediction_vs_actual.png`**: Compares the model's predictions (red dotted line) against the actual temperatures (blue line) from the test dataset.
-    
-
 ## 🗂️ Files in this Repository
 
 * **`train.py`**: The main script to train the model. It loads `weather.csv`, processes the data, builds the LSTM, trains it, and saves the final model and scaler.
