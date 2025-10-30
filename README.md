@@ -6,7 +6,7 @@ The project includes:
 1.  A Python script to train and save the LSTM model.
 2.  An interactive web app built with Gradio to make live predictions.
 
-## APP:
+## APP:https://huggingface.co/spaces/venmugilrajan/WEATHER_PREDICTION_LSTM
     
 ## 🗂️ Files in this Repository
 
